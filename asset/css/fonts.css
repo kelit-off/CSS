@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Protest';
+    src: url(./font/ProtestGuerrilla-Regular.ttf);
+}
+
+body {
+    font-family: Protest;
+}
+
+.no-policy {
+    font-family: sans-serif;
+}
+
+.small-text {
+    font-size: small;
+}
+
+.text-bold {
+    font-weight: bold;
+}

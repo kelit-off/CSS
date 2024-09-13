@@ -1,0 +1,77 @@
+.bg-green {
+    background-color: green;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.figure {
+    max-width: 100%;
+    max-height: 100vh;
+    height: 100%;
+}
+
+#figure1 {
+    margin-top: 50px;
+    padding: 10px;
+}
+
+#figure2 {
+    padding: 20px;
+}
+
+#figure3 {
+    padding: 30px;
+}
+
+#figure4 {
+    position: relative;
+    left: 50%;
+    width: 1000px;
+    height: 600px;
+    transform: translate(-50%);
+}
+
+#figure5 {
+    position: relative;
+    height: 300px;
+    left: 500px;
+    top: 100px;
+}
+
+#figure6 {
+    position: relative;
+    height: 200px;
+    right: 700px;
+    top: 200px;
+    width: 400px;
+}
+
+#figure7 {
+    position: absolute;
+    height: 200px;
+    right: 700px;
+    top: 200px;
+    width: 400px;
+}
+
+#figure8 {
+    position: absolute;
+    height: 200px;
+    right: 700px;
+    top: 200px;
+    width: 400px;
+}
+
+#figure9 {
+    position: absolute;
+    height: 200px;
+    right: 700px;
+    top: 200px;
+    width: 400px;
+}

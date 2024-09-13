@@ -1,0 +1,28 @@
+#image1, #image2, #image3, #image4 {
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#image1 {
+    background-image: url(https://cdn.pixabay.com/photo/2024/01/29/20/40/cat-8540772_1280.jpg);
+}
+
+#image2 {
+    background-image: url(https://cdn.pixabay.com/photo/2022/12/22/02/56/dog-7671355_1280.jpg);
+    width: 80%;
+    height: 80%;
+}
+
+#image3 {
+    background-image: url(https://cdn.pixabay.com/photo/2017/07/27/18/46/server-2546330_1280.jpg);
+    width: 60%;
+    height: 60%;
+}
+
+#image4 {
+    background-image: url(https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_1280.jpg);
+    width: 40%;
+    height: 40%;
+}

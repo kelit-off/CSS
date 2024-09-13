@@ -1,0 +1,15 @@
+li {
+    color: blue;
+}
+
+li[name=ha] {
+    color: orange;
+}
+
+.vert {
+    color: green !important;
+}
+
+#rose {
+    color: pink;
+}
